@@ -16,3 +16,4 @@ jobs:
           # Replace this with your goodreads user id
           goodreads_user_id: "118878574"
           shelf: "currently-reading"
+          template: "- [$title]($url) by $author (⭐️$average_rating)"
