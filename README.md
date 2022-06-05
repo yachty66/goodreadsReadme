@@ -6,9 +6,9 @@
 
 ### Last 5 Books I've Read 
 <!-- GOODREADS-READ-LIST:START -->
-- [The Hundred-Page Machine Learning Book](https://www.goodreads.com/review/show/4323283954?utm_medium=api&utm_source=rss) by Andriy Burkov (⭐⭐⭐⭐⭐)
-- [Weltmacht auf sechs Beinen: Das verborgene Leben der Ameisen](https://www.goodreads.com/review/show/4000699097?utm_medium=api&utm_source=rss) by Susanne Foitzik (⭐⭐⭐⭐)
-- [Critical Thinking (The MIT Press Essential Knowledge series)](https://www.goodreads.com/review/show/4394402449?utm_medium=api&utm_source=rss) by Jonathan Haber (⭐⭐⭐⭐)
-- [Competing in the Age of AI: Strategy and Leadership When Algorithms and Networks Run the World](https://www.goodreads.com/review/show/4242808884?utm_medium=api&utm_source=rss) by Marco Iansiti (⭐⭐⭐⭐)
-- [An Elegant Puzzle: Systems of Engineering Management](https://www.goodreads.com/review/show/4242809370?utm_medium=api&utm_source=rss) by Will Larson (⭐⭐⭐⭐)
+- [Being Logical: A Guide to Good Thinking](https://www.goodreads.com/review/show/4573558700?utm_medium=api&utm_source=rss) by Dennis Q. McInerny (⭐⭐⭐⭐)
+- [Mut: Lebe wild und gefährlich](https://www.goodreads.com/review/show/3746144518?utm_medium=api&utm_source=rss) by Osho (⭐⭐⭐⭐⭐)
+- [Scale: The Universal Laws of Growth, Innovation, Sustainability, and the Pace of Life in Organisms, Cities, Economies, and Companies](https://www.goodreads.com/review/show/4710884514?utm_medium=api&utm_source=rss) by Geoffrey B. West (⭐⭐⭐⭐)
+- [Idea Makers: Personal Perspectives on the Lives & Ideas of Some Notable People](https://www.goodreads.com/review/show/4619284782?utm_medium=api&utm_source=rss) by Stephen Wolfram (⭐⭐⭐⭐)
+- [What is Transhumanism?](https://www.goodreads.com/review/show/4653981096?utm_medium=api&utm_source=rss) by whatistranshumanism.org (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
