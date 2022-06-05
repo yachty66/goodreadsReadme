@@ -6,9 +6,9 @@
 
 ### Last 5 Books I've Read 
 <!-- GOODREADS-READ-LIST:START -->
-- [Wirtschaftsinformatik für Dummies (Für Dummies)](https://www.goodreads.com/review/show/4506390839?utm_medium=api&utm_source=rss) by Stephan Thesmann (⭐⭐⭐)
-- [Deal! Du gibst mir, was ich will](https://www.goodreads.com/review/show/4506379843?utm_medium=api&utm_source=rss) by Jack Nasher (⭐⭐)
-- [Computational Thinking](https://www.goodreads.com/review/show/4354526886?utm_medium=api&utm_source=rss) by Peter J. Denning (⭐⭐⭐⭐⭐)
-- [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.goodreads.com/review/show/4183309490?utm_medium=api&utm_source=rss) by James Clear (⭐⭐⭐⭐)
-- [Thinking in Systems: A Primer](https://www.goodreads.com/review/show/4286378104?utm_medium=api&utm_source=rss) by Donella H. Meadows (⭐⭐⭐)
+- [The Hundred-Page Machine Learning Book](https://www.goodreads.com/review/show/4323283954?utm_medium=api&utm_source=rss) by Andriy Burkov (⭐⭐⭐⭐⭐)
+- [Weltmacht auf sechs Beinen: Das verborgene Leben der Ameisen](https://www.goodreads.com/review/show/4000699097?utm_medium=api&utm_source=rss) by Susanne Foitzik (⭐⭐⭐⭐)
+- [Critical Thinking (The MIT Press Essential Knowledge series)](https://www.goodreads.com/review/show/4394402449?utm_medium=api&utm_source=rss) by Jonathan Haber (⭐⭐⭐⭐)
+- [Competing in the Age of AI: Strategy and Leadership When Algorithms and Networks Run the World](https://www.goodreads.com/review/show/4242808884?utm_medium=api&utm_source=rss) by Marco Iansiti (⭐⭐⭐⭐)
+- [An Elegant Puzzle: Systems of Engineering Management](https://www.goodreads.com/review/show/4242809370?utm_medium=api&utm_source=rss) by Will Larson (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
