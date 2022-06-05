@@ -6,9 +6,9 @@
 
 ### Last 5 Books I've Read 
 <!-- GOODREADS-READ-LIST:START -->
-- [Being Logical: A Guide to Good Thinking](https://www.goodreads.com/review/show/4573558700?utm_medium=api&utm_source=rss) by Dennis Q. McInerny (⭐⭐⭐⭐)
-- [Mut: Lebe wild und gefährlich](https://www.goodreads.com/review/show/3746144518?utm_medium=api&utm_source=rss) by Osho (⭐⭐⭐⭐⭐)
-- [Scale: The Universal Laws of Growth, Innovation, Sustainability, and the Pace of Life in Organisms, Cities, Economies, and Companies](https://www.goodreads.com/review/show/4710884514?utm_medium=api&utm_source=rss) by Geoffrey B. West (⭐⭐⭐⭐)
-- [Idea Makers: Personal Perspectives on the Lives & Ideas of Some Notable People](https://www.goodreads.com/review/show/4619284782?utm_medium=api&utm_source=rss) by Stephen Wolfram (⭐⭐⭐⭐)
-- [What is Transhumanism?](https://www.goodreads.com/review/show/4653981096?utm_medium=api&utm_source=rss) by whatistranshumanism.org (⭐⭐⭐⭐)
+- [Wirtschaftsinformatik für Dummies (Für Dummies)](https://www.goodreads.com/review/show/4506390839?utm_medium=api&utm_source=rss) by Stephan Thesmann (⭐⭐⭐)
+- [Deal! Du gibst mir, was ich will](https://www.goodreads.com/review/show/4506379843?utm_medium=api&utm_source=rss) by Jack Nasher (⭐⭐)
+- [Computational Thinking](https://www.goodreads.com/review/show/4354526886?utm_medium=api&utm_source=rss) by Peter J. Denning (⭐⭐⭐⭐⭐)
+- [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.goodreads.com/review/show/4183309490?utm_medium=api&utm_source=rss) by James Clear (⭐⭐⭐⭐)
+- [Thinking in Systems: A Primer](https://www.goodreads.com/review/show/4286378104?utm_medium=api&utm_source=rss) by Donella H. Meadows (⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
