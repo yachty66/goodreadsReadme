@@ -1,5 +1,3 @@
-### Books I'm currently reading
-
 <h1 align="center">Hi, I'm Max 👋</h1>
 
 <p align="center">
@@ -8,15 +6,15 @@
   </a>
 </p>
 
+### Books I'm currently reading
+
 <!-- GOODREADS-LIST:START -->
 - [Metadata](https://www.goodreads.com/review/show/4363459975?utm_medium=api&utm_source=rss) by Jeffrey Pomerantz (⭐️3.74)
 - [A New Kind of Science](https://www.goodreads.com/review/show/4668876684?utm_medium=api&utm_source=rss) by Stephen Wolfram (⭐️3.6)
 <!-- GOODREADS-LIST:END -->
-
 ### Last 5 Books I've Read
 
 <!-- GOODREADS-READ-LIST:START -->
-
 - [Meditations: A New Translation](https://www.goodreads.com/review/show/4682123972?utm_medium=api&utm_source=rss) by Marcus Aurelius (⭐⭐⭐⭐)
 - [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/review/show/4319439872?utm_medium=api&utm_source=rss) by Andy Hunt (⭐⭐⭐⭐)
 - [Thinking in Systems: A Primer](https://www.goodreads.com/review/show/4286378104?utm_medium=api&utm_source=rss) by Donella H. Meadows (⭐⭐⭐)
