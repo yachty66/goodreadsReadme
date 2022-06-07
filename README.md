@@ -6,7 +6,7 @@
   </a>
 </p>
 
-### Books I'm currently reading
+### Books I'm Currently Reading
 
 <!-- GOODREADS-LIST:START -->
 - [Metadata](https://www.goodreads.com/review/show/4363459975?utm_medium=api&utm_source=rss) by Jeffrey Pomerantz (⭐️3.74)
