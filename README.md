@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Max 👋</h1>
 
 <p align="center">
-  <a href="https://discord.gg/WjEFnzC">
+  <a href="https://discordapp.com/channels/@me/USERID/694118037036466187">
     <img alt="Discord" title="Discord" height="48" width="48" src="assets/discordIcon.svg">
   </a>
 </p>
