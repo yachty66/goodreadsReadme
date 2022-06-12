@@ -14,9 +14,9 @@
 ### Last 5 Books I've Read
 
 <!-- GOODREADS-READ-LIST:START -->
+- [The Art of Learning: A Journey in the Pursuit of Excellence](https://www.goodreads.com/review/show/4764921055?utm_medium=api&utm_source=rss) by Josh Waitzkin (⭐⭐⭐⭐)
+- [Anything You Want](https://www.goodreads.com/review/show/4764904461?utm_medium=api&utm_source=rss) by Derek Sivers (⭐⭐⭐⭐)
+- [Make It Stick: The Science of Successful Learning](https://www.goodreads.com/review/show/4593765139?utm_medium=api&utm_source=rss) by Peter C. Brown (⭐⭐⭐⭐)
 - [Meditations: A New Translation](https://www.goodreads.com/review/show/4682123972?utm_medium=api&utm_source=rss) by Marcus Aurelius (⭐⭐⭐⭐)
-- [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/review/show/4319439872?utm_medium=api&utm_source=rss) by Andy Hunt (⭐⭐⭐⭐)
-- [Thinking in Systems: A Primer](https://www.goodreads.com/review/show/4286378104?utm_medium=api&utm_source=rss) by Donella H. Meadows (⭐⭐⭐)
-- [Blitzscaling: The Lightning-Fast Path to Building Massively Valuable Companies](https://www.goodreads.com/review/show/3868246701?utm_medium=api&utm_source=rss) by Reid Hoffman (⭐⭐⭐⭐)
-- [Your Brain at Work: Strategies for Overcoming Distraction, Regaining Focus, and Working Smarter All Day Long](https://www.goodreads.com/review/show/4593763340?utm_medium=api&utm_source=rss) by David Rock (⭐⭐⭐⭐)
+- [Ubersleep: Nap-Based Sleep Schedules and the Polyphasic Lifestyle](https://www.goodreads.com/review/show/4714841328?utm_medium=api&utm_source=rss) by PureDoxyk (⭐⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
