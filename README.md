@@ -9,7 +9,6 @@
 ### Books I'm Currently Reading
 
 <!-- GOODREADS-LIST:START -->
-- [The Art of Learning: A Journey in the Pursuit of Excellence](https://www.goodreads.com/review/show/4764921055?utm_medium=api&utm_source=rss) by Josh Waitzkin (⭐️4.02)
 - [A New Kind of Science](https://www.goodreads.com/review/show/4668876684?utm_medium=api&utm_source=rss) by Stephen Wolfram (⭐️3.6)
 <!-- GOODREADS-LIST:END -->
 ### Last 5 Books I've Read
