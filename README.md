@@ -9,6 +9,7 @@
 ### Books I'm Currently Reading
 
 <!-- GOODREADS-LIST:START -->
+- [The Art of Impossible: A Peak Performance Primer](https://www.goodreads.com/review/show/4771679903?utm_medium=api&utm_source=rss) by Steven Kotler (⭐️4.27)
 - [A New Kind of Science](https://www.goodreads.com/review/show/4668876684?utm_medium=api&utm_source=rss) by Stephen Wolfram (⭐️3.6)
 <!-- GOODREADS-LIST:END -->
 ### Last 5 Books I've Read
