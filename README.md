@@ -9,6 +9,7 @@
 ### Books I'm Currently Reading
 
 <!-- GOODREADS-LIST:START -->
+- [Lying](https://www.goodreads.com/review/show/4286323816?utm_medium=api&utm_source=rss) by Sam Harris (⭐️3.87)
 - [A New Kind of Science](https://www.goodreads.com/review/show/4668876684?utm_medium=api&utm_source=rss) by Stephen Wolfram (⭐️3.6)
 <!-- GOODREADS-LIST:END -->
 ### Last 5 Books I've Read
