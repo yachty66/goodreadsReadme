@@ -9,6 +9,7 @@
 ### Books I'm Currently Reading
 
 <!-- GOODREADS-LIST:START -->
+- [The Psychedelic Explorer's Guide: Safe, Therapeutic, and Sacred Journeys](https://www.goodreads.com/review/show/4794968636?utm_medium=api&utm_source=rss) by James Fadiman (⭐️4.17)
 - [Logical Chess Move By Move: Every Move Explained New Algebraic Edition](https://www.goodreads.com/review/show/4794855974?utm_medium=api&utm_source=rss) by Irving Chernev (⭐️4.28)
 - [A New Kind of Science](https://www.goodreads.com/review/show/4668876684?utm_medium=api&utm_source=rss) by Stephen Wolfram (⭐️3.6)
 <!-- GOODREADS-LIST:END -->
