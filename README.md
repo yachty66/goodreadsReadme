@@ -16,9 +16,9 @@
 ### Last 5 Books I've Read
 
 <!-- GOODREADS-READ-LIST:START -->
+- [The Psychedelic Explorer's Guide: Safe, Therapeutic, and Sacred Journeys](https://www.goodreads.com/review/show/4794968636?utm_medium=api&utm_source=rss) by James Fadiman (⭐⭐⭐⭐)
 - [Lying](https://www.goodreads.com/review/show/4286323816?utm_medium=api&utm_source=rss) by Sam Harris (⭐⭐⭐⭐)
 - [The Art of Impossible: A Peak Performance Primer](https://www.goodreads.com/review/show/4771679903?utm_medium=api&utm_source=rss) by Steven Kotler (⭐⭐⭐⭐)
 - [The Art of Learning: A Journey in the Pursuit of Excellence](https://www.goodreads.com/review/show/4764921055?utm_medium=api&utm_source=rss) by Josh Waitzkin (⭐⭐⭐⭐)
 - [Anything You Want](https://www.goodreads.com/review/show/4764904461?utm_medium=api&utm_source=rss) by Derek Sivers (⭐⭐⭐⭐)
-- [Make It Stick: The Science of Successful Learning](https://www.goodreads.com/review/show/4593765139?utm_medium=api&utm_source=rss) by Peter C. Brown (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
