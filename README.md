@@ -15,9 +15,9 @@
 ### Last 5 Books I've Read
 
 <!-- GOODREADS-READ-LIST:START -->
+- [The Programmer&apos;s Brain](https://www.goodreads.com/review/show/4817939584?utm_medium=api&utm_source=rss) by Felienne Hermans (⭐⭐⭐⭐)
 - [Brave New World](https://www.goodreads.com/review/show/4511315139?utm_medium=api&utm_source=rss) by Aldous Huxley (⭐⭐⭐)
 - [Why Greatness Cannot Be Planned: The Myth of the Objective](https://www.goodreads.com/review/show/4807331884?utm_medium=api&utm_source=rss) by Kenneth O. Stanley (⭐⭐⭐⭐⭐)
 - [The Psychedelic Explorer's Guide: Safe, Therapeutic, and Sacred Journeys](https://www.goodreads.com/review/show/4794968636?utm_medium=api&utm_source=rss) by James Fadiman (⭐⭐⭐⭐)
 - [Lying](https://www.goodreads.com/review/show/4286323816?utm_medium=api&utm_source=rss) by Sam Harris (⭐⭐⭐⭐)
-- [The Art of Impossible: A Peak Performance Primer](https://www.goodreads.com/review/show/4771679903?utm_medium=api&utm_source=rss) by Steven Kotler (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
