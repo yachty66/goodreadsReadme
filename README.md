@@ -16,9 +16,9 @@
 ### Last 5 Books I've Read
 
 <!-- GOODREADS-READ-LIST:START -->
+- [Reinventing Discovery: The New Era of Networked Science](https://www.goodreads.com/review/show/4278115552?utm_medium=api&utm_source=rss) by Michael Nielsen (⭐⭐⭐⭐⭐)
 - [The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World](https://www.goodreads.com/review/show/4849604364?utm_medium=api&utm_source=rss) by Pedro Domingos (unrated)
 - [Meta Learning: How To Learn Deep Learning And Thrive In The Digital World](https://www.goodreads.com/review/show/4602963184?utm_medium=api&utm_source=rss) by Radek Osmulski (⭐⭐⭐⭐)
 - [The Programmer&apos;s Brain](https://www.goodreads.com/review/show/4817939584?utm_medium=api&utm_source=rss) by Felienne Hermans (⭐⭐⭐⭐)
 - [Brave New World](https://www.goodreads.com/review/show/4511315139?utm_medium=api&utm_source=rss) by Aldous Huxley (⭐⭐⭐)
-- [Why Greatness Cannot Be Planned: The Myth of the Objective](https://www.goodreads.com/review/show/4807331884?utm_medium=api&utm_source=rss) by Kenneth O. Stanley (⭐⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
