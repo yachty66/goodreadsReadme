@@ -9,7 +9,7 @@
 ### Books I'm Currently Reading
 
 <!-- GOODREADS-LIST:START -->
-- [Reinventing Discovery: The New Era of Networked Science](https://www.goodreads.com/review/show/4278115552?utm_medium=api&utm_source=rss) by Michael Nielsen (⭐️3.95)
+- [The Fourth Paradigm: Data-Intensive Scientific Discovery](https://www.goodreads.com/review/show/4851692760?utm_medium=api&utm_source=rss) by Tony Hey (⭐️3.58)
 - [Logical Chess Move By Move: Every Move Explained New Algebraic Edition](https://www.goodreads.com/review/show/4794855974?utm_medium=api&utm_source=rss) by Irving Chernev (⭐️4.28)
 - [A New Kind of Science](https://www.goodreads.com/review/show/4668876684?utm_medium=api&utm_source=rss) by Stephen Wolfram (⭐️3.6)
 <!-- GOODREADS-LIST:END -->
