@@ -10,7 +10,7 @@
 
 <!-- GOODREADS-LIST:START -->
 - [The Art of Doing Science and Engineering: Learning to Learn](https://www.goodreads.com/review/show/4520659825?utm_medium=api&utm_source=rss) by Richard Hamming (⭐️4.19)
-- [The Man from the Future: The Visionary Life of John von Neumann](https://www.goodreads.com/review/show/4598720139?utm_medium=api&utm_source=rss) by Ananyo Bhattacharya (⭐️4.06)
+- [The Man from the Future: The Visionary Life of John von Neumann](https://www.goodreads.com/review/show/4598720139?utm_medium=api&utm_source=rss) by Ananyo Bhattacharya (⭐️4.07)
 <!-- GOODREADS-LIST:END -->
 ### Last 5 Books I've Read
 
