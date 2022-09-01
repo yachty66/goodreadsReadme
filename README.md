@@ -15,9 +15,9 @@
 ### Last 5 Books I've Read
 
 <!-- GOODREADS-READ-LIST:START -->
+- [The Man from the Future: The Visionary Life of John von Neumann](https://www.goodreads.com/review/show/4598720139?utm_medium=api&utm_source=rss) by Ananyo Bhattacharya (⭐⭐⭐⭐⭐)
 - [Dragons of Eden: Speculations on the Evolution of Human Intelligence](https://www.goodreads.com/review/show/4885433237?utm_medium=api&utm_source=rss) by Carl Sagan (⭐⭐⭐)
 - [The Fourth Paradigm: Data-Intensive Scientific Discovery](https://www.goodreads.com/review/show/4851692760?utm_medium=api&utm_source=rss) by Tony Hey (⭐⭐⭐⭐⭐)
 - [Reinventing Discovery: The New Era of Networked Science](https://www.goodreads.com/review/show/4278115552?utm_medium=api&utm_source=rss) by Michael Nielsen (⭐⭐⭐⭐⭐)
 - [Meta Learning: How To Learn Deep Learning And Thrive In The Digital World](https://www.goodreads.com/review/show/4602963184?utm_medium=api&utm_source=rss) by Radek Osmulski (⭐⭐⭐⭐)
-- [The Programmer&apos;s Brain](https://www.goodreads.com/review/show/4817939584?utm_medium=api&utm_source=rss) by Felienne Hermans (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
