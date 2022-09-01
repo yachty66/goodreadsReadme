@@ -9,8 +9,8 @@
 ### Books I'm Currently Reading
 
 <!-- GOODREADS-LIST:START -->
+- [Hell Yeah or No: what's worth doing](https://www.goodreads.com/review/show/4764907083?utm_medium=api&utm_source=rss) by Derek Sivers (⭐️4.33)
 - [The Art of Doing Science and Engineering: Learning to Learn](https://www.goodreads.com/review/show/4520659825?utm_medium=api&utm_source=rss) by Richard Hamming (⭐️4.19)
-- [The Man from the Future: The Visionary Life of John von Neumann](https://www.goodreads.com/review/show/4598720139?utm_medium=api&utm_source=rss) by Ananyo Bhattacharya (⭐️4.06)
 <!-- GOODREADS-LIST:END -->
 ### Last 5 Books I've Read
 
