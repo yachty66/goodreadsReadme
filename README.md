@@ -9,7 +9,7 @@
 ### Books I'm Currently Reading
 
 <!-- GOODREADS-LIST:START -->
-- [The Founders: The Story of Paypal and the Entrepreneurs Who Shaped Silicon Valley](https://www.goodreads.com/review/show/4964964334?utm_medium=api&utm_source=rss) by Jimmy Soni (⭐️4.23)
+- [The Founders: The Story of Paypal and the Entrepreneurs Who Shaped Silicon Valley](https://www.goodreads.com/review/show/4964964334?utm_medium=api&utm_source=rss) by Jimmy Soni (⭐️4.24)
 - [The Art of Doing Science and Engineering: Learning to Learn](https://www.goodreads.com/review/show/4520659825?utm_medium=api&utm_source=rss) by Richard Hamming (⭐️4.2)
 <!-- GOODREADS-LIST:END -->
 ### Last 5 Books I've Read
