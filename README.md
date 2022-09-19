@@ -14,9 +14,9 @@
 ### Last 5 Books I've Read
 
 <!-- GOODREADS-READ-LIST:START -->
+- [The Founders: The Story of Paypal and the Entrepreneurs Who Shaped Silicon Valley](https://www.goodreads.com/review/show/4964964334?utm_medium=api&utm_source=rss) by Jimmy Soni (unrated)
 - [Python Robotics Projects: Build smart and collaborative robots using Python](https://www.goodreads.com/review/show/4949826715?utm_medium=api&utm_source=rss) by Diwakar Vaish (unrated)
 - [Hell Yeah or No: what's worth doing](https://www.goodreads.com/review/show/4764907083?utm_medium=api&utm_source=rss) by Derek Sivers (⭐⭐⭐⭐⭐)
 - [The Man from the Future: The Visionary Life of John von Neumann](https://www.goodreads.com/review/show/4598720139?utm_medium=api&utm_source=rss) by Ananyo Bhattacharya (⭐⭐⭐⭐⭐)
 - [Dragons of Eden: Speculations on the Evolution of Human Intelligence](https://www.goodreads.com/review/show/4885433237?utm_medium=api&utm_source=rss) by Carl Sagan (⭐⭐⭐)
-- [The Fourth Paradigm: Data-Intensive Scientific Discovery](https://www.goodreads.com/review/show/4851692760?utm_medium=api&utm_source=rss) by Tony Hey (⭐⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
