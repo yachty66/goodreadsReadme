@@ -9,7 +9,6 @@
 ### Books I'm Currently Reading
 
 <!-- GOODREADS-LIST:START -->
-- [The Power Law: Inside Silicon Valley's Venture Capital Machine](https://www.goodreads.com/review/show/4965504572?utm_medium=api&utm_source=rss) by Sebastian Mallaby (⭐️4.45)
 - [The Art of Doing Science and Engineering: Learning to Learn](https://www.goodreads.com/review/show/4520659825?utm_medium=api&utm_source=rss) by Richard Hamming (⭐️4.2)
 <!-- GOODREADS-LIST:END -->
 ### Last 5 Books I've Read
