@@ -16,9 +16,9 @@
 ### Last 5 Books I've Read
 
 <!-- GOODREADS-READ-LIST:START -->
+- [Hit Refresh: The Quest to Rediscover Microsoft's Soul and Imagine a Better Future for Everyone](https://www.goodreads.com/review/show/5017917068?utm_medium=api&utm_source=rss) by Satya Nadella (⭐⭐⭐⭐⭐)
 - [The Power Law: Inside Silicon Valley's Venture Capital Machine](https://www.goodreads.com/review/show/4965504572?utm_medium=api&utm_source=rss) by Sebastian Mallaby (⭐⭐⭐⭐⭐)
 - [The Founders: The Story of Paypal and the Entrepreneurs Who Shaped Silicon Valley](https://www.goodreads.com/review/show/4964964334?utm_medium=api&utm_source=rss) by Jimmy Soni (⭐⭐⭐⭐⭐)
 - [Python Robotics Projects: Build smart and collaborative robots using Python](https://www.goodreads.com/review/show/4949826715?utm_medium=api&utm_source=rss) by Diwakar Vaish (unrated)
 - [Hell Yeah or No: what's worth doing](https://www.goodreads.com/review/show/4764907083?utm_medium=api&utm_source=rss) by Derek Sivers (⭐⭐⭐⭐⭐)
-- [The Man from the Future: The Visionary Life of John von Neumann](https://www.goodreads.com/review/show/4598720139?utm_medium=api&utm_source=rss) by Ananyo Bhattacharya (⭐⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
