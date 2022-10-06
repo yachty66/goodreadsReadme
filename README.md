@@ -9,6 +9,7 @@
 ### Books I'm Currently Reading
 
 <!-- GOODREADS-LIST:START -->
+- [Out of Control: The New Biology of Machines, Social Systems, and the Economic World](https://www.goodreads.com/review/show/5008447639?utm_medium=api&utm_source=rss) by Kevin Kelly (⭐️4.22)
 - [Driving Digital Transformation Through Data and AI: A Practical Guide to Delivering Data Science and Machine Learning Products](https://www.goodreads.com/review/show/4962175150?utm_medium=api&utm_source=rss) by Alexander Borek (⭐️3.75)
 - [Natural Language Processing with Transformers: Building Language Applications with Hugging Face](https://www.goodreads.com/review/show/4972039596?utm_medium=api&utm_source=rss) by Lewis Tunstall (⭐️4.44)
 - [The Art of Doing Science and Engineering: Learning to Learn](https://www.goodreads.com/review/show/4520659825?utm_medium=api&utm_source=rss) by Richard Hamming (⭐️4.2)
