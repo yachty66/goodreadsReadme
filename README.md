@@ -10,7 +10,6 @@
 
 <!-- GOODREADS-LIST:START -->
 - [Driving Digital Transformation Through Data and AI: A Practical Guide to Delivering Data Science and Machine Learning Products](https://www.goodreads.com/review/show/4962175150?utm_medium=api&utm_source=rss) by Alexander Borek (⭐️3.75)
-- [Hit Refresh: The Quest to Rediscover Microsoft's Soul and Imagine a Better Future for Everyone](https://www.goodreads.com/review/show/5017917068?utm_medium=api&utm_source=rss) by Satya Nadella (⭐️3.73)
 - [Natural Language Processing with Transformers: Building Language Applications with Hugging Face](https://www.goodreads.com/review/show/4972039596?utm_medium=api&utm_source=rss) by Lewis Tunstall (⭐️4.44)
 - [The Art of Doing Science and Engineering: Learning to Learn](https://www.goodreads.com/review/show/4520659825?utm_medium=api&utm_source=rss) by Richard Hamming (⭐️4.2)
 <!-- GOODREADS-LIST:END -->
