@@ -17,9 +17,9 @@
 ### Last 5 Books I've Read
 
 <!-- GOODREADS-READ-LIST:START -->
+- [The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future](https://www.goodreads.com/review/show/5030315784?utm_medium=api&utm_source=rss) by Kevin Kelly (⭐⭐⭐⭐⭐)
 - [Out of Control: The New Biology of Machines, Social Systems, and the Economic World](https://www.goodreads.com/review/show/5008447639?utm_medium=api&utm_source=rss) by Kevin Kelly (⭐⭐⭐⭐⭐)
 - [Hit Refresh: The Quest to Rediscover Microsoft's Soul and Imagine a Better Future for Everyone](https://www.goodreads.com/review/show/5017917068?utm_medium=api&utm_source=rss) by Satya Nadella (⭐⭐⭐⭐⭐)
 - [The Power Law: Inside Silicon Valley's Venture Capital Machine](https://www.goodreads.com/review/show/4965504572?utm_medium=api&utm_source=rss) by Sebastian Mallaby (⭐⭐⭐⭐⭐)
 - [The Founders: The Story of Paypal and the Entrepreneurs Who Shaped Silicon Valley](https://www.goodreads.com/review/show/4964964334?utm_medium=api&utm_source=rss) by Jimmy Soni (⭐⭐⭐⭐⭐)
-- [Python Robotics Projects: Build smart and collaborative robots using Python](https://www.goodreads.com/review/show/4949826715?utm_medium=api&utm_source=rss) by Diwakar Vaish (unrated)
 <!-- GOODREADS-READ-LIST:END -->
