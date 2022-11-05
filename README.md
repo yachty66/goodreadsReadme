@@ -9,7 +9,7 @@
 ### Books I'm Currently Reading
 
 <!-- GOODREADS-LIST:START -->
-- [The Network State: How To Start a New Country](https://www.goodreads.com/review/show/5044739728?utm_medium=api&utm_source=rss) by Balaji S. Srinivasan (⭐️4.06)
+- [The Network State: How To Start a New Country](https://www.goodreads.com/review/show/5044739728?utm_medium=api&utm_source=rss) by Balaji S. Srinivasan (⭐️4.05)
 - [How to Write a Thesis](https://www.goodreads.com/review/show/5074853213?utm_medium=api&utm_source=rss) by Umberto Eco (⭐️3.98)
 - [Seasteading: How Floating Nations Will Restore the Environment, Enrich the Poor, Cure the Sick, and Liberate Humanity from Politicians](https://www.goodreads.com/review/show/4260969974?utm_medium=api&utm_source=rss) by Joe Quirk (⭐️4.04)
 - [Driving Digital Transformation Through Data and AI: A Practical Guide to Delivering Data Science and Machine Learning Products](https://www.goodreads.com/review/show/4962175150?utm_medium=api&utm_source=rss) by Alexander Borek (⭐️3.75)
