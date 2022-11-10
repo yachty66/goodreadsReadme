@@ -18,9 +18,9 @@
 ### Last 5 Books I've Read
 
 <!-- GOODREADS-READ-LIST:START -->
+- [Curious: The Desire to Know and Why Your Future Depends On It](https://www.goodreads.com/review/show/5078585141?utm_medium=api&utm_source=rss) by Ian Leslie (⭐⭐⭐⭐⭐)
 - [The Book of Why: The New Science of Cause and Effect](https://www.goodreads.com/review/show/5094009601?utm_medium=api&utm_source=rss) by Judea Pearl (unrated)
 - [Why Greatness Cannot Be Planned: The Myth of the Objective](https://www.goodreads.com/review/show/4807331884?utm_medium=api&utm_source=rss) by Kenneth O. Stanley (⭐⭐⭐⭐⭐)
 - [The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future](https://www.goodreads.com/review/show/5030315784?utm_medium=api&utm_source=rss) by Kevin Kelly (⭐⭐⭐⭐⭐)
 - [Out of Control: The New Biology of Machines, Social Systems, and the Economic World](https://www.goodreads.com/review/show/5008447639?utm_medium=api&utm_source=rss) by Kevin Kelly (⭐⭐⭐⭐⭐)
-- [Hit Refresh: The Quest to Rediscover Microsoft's Soul and Imagine a Better Future for Everyone](https://www.goodreads.com/review/show/5017917068?utm_medium=api&utm_source=rss) by Satya Nadella (⭐⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
