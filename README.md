@@ -19,9 +19,9 @@
 ### Last 5 Books I've Read
 
 <!-- GOODREADS-READ-LIST:START -->
+- [Machine Learning and Systems Biology in Genomics and Health](https://www.goodreads.com/review/show/5112435948?utm_medium=api&utm_source=rss) by Shailza Singh (⭐⭐⭐)
 - [Deep Learning](https://www.goodreads.com/review/show/4363459816?utm_medium=api&utm_source=rss) by John D. Kelleher (⭐⭐⭐⭐)
 - [Curious: The Desire to Know and Why Your Future Depends On It](https://www.goodreads.com/review/show/5078585141?utm_medium=api&utm_source=rss) by Ian Leslie (⭐⭐⭐⭐⭐)
 - [Why Greatness Cannot Be Planned: The Myth of the Objective](https://www.goodreads.com/review/show/4807331884?utm_medium=api&utm_source=rss) by Kenneth O. Stanley (⭐⭐⭐⭐⭐)
 - [The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future](https://www.goodreads.com/review/show/5030315784?utm_medium=api&utm_source=rss) by Kevin Kelly (⭐⭐⭐⭐⭐)
-- [Out of Control: The New Biology of Machines, Social Systems, and the Economic World](https://www.goodreads.com/review/show/5008447639?utm_medium=api&utm_source=rss) by Kevin Kelly (⭐⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
