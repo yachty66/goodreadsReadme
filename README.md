@@ -9,7 +9,6 @@
 ### Books I'm Currently Reading
 
 <!-- GOODREADS-LIST:START -->
-- [The Boy Who Could Change the World: The Writings of Aaron Swartz](https://www.goodreads.com/review/show/5107673498?utm_medium=api&utm_source=rss) by Aaron Swartz (⭐️4.22)
 - [Data Science](https://www.goodreads.com/review/show/4363459731?utm_medium=api&utm_source=rss) by John D. Kelleher (⭐️3.92)
 - [How to Write a Thesis](https://www.goodreads.com/review/show/5074853213?utm_medium=api&utm_source=rss) by Umberto Eco (⭐️3.98)
 - [Seasteading: How Floating Nations Will Restore the Environment, Enrich the Poor, Cure the Sick, and Liberate Humanity from Politicians](https://www.goodreads.com/review/show/4260969974?utm_medium=api&utm_source=rss) by Joe Quirk (⭐️4.02)
