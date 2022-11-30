@@ -9,7 +9,6 @@
 ### Books I'm Currently Reading
 
 <!-- GOODREADS-LIST:START -->
-- [The Contrarian: Peter Thiel and Silicon Valley's Pursuit of Power](https://www.goodreads.com/review/show/4846935648?utm_medium=api&utm_source=rss) by Max Chafkin (⭐️3.58)
 - [Seasteading: How Floating Nations Will Restore the Environment, Enrich the Poor, Cure the Sick, and Liberate Humanity from Politicians](https://www.goodreads.com/review/show/4260969974?utm_medium=api&utm_source=rss) by Joe Quirk (⭐️4.02)
 - [Driving Digital Transformation Through Data and AI: A Practical Guide to Delivering Data Science and Machine Learning Products](https://www.goodreads.com/review/show/4962175150?utm_medium=api&utm_source=rss) by Alexander Borek (⭐️3.75)
 - [Natural Language Processing with Transformers: Building Language Applications with Hugging Face](https://www.goodreads.com/review/show/4972039596?utm_medium=api&utm_source=rss) by Lewis Tunstall (⭐️4.51)
