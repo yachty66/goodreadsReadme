@@ -16,9 +16,9 @@
 ### Last 5 Books I've Read
 
 <!-- GOODREADS-READ-LIST:START -->
+- [The Contrarian: Peter Thiel and Silicon Valley's Pursuit of Power](https://www.goodreads.com/review/show/4846935648?utm_medium=api&utm_source=rss) by Max Chafkin (⭐⭐⭐⭐)
 - [Startups](https://www.goodreads.com/review/show/5021186247?utm_medium=api&utm_source=rss) by Chris Dixon (⭐⭐⭐)
 - [Data Science](https://www.goodreads.com/review/show/4363459731?utm_medium=api&utm_source=rss) by John D. Kelleher (⭐⭐⭐⭐)
 - [Machine Learning and Systems Biology in Genomics and Health](https://www.goodreads.com/review/show/5112435948?utm_medium=api&utm_source=rss) by Shailza Singh (⭐⭐⭐)
 - [Deep Learning](https://www.goodreads.com/review/show/4363459816?utm_medium=api&utm_source=rss) by John D. Kelleher (⭐⭐⭐⭐)
-- [Curious: The Desire to Know and Why Your Future Depends On It](https://www.goodreads.com/review/show/5078585141?utm_medium=api&utm_source=rss) by Ian Leslie (⭐⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
