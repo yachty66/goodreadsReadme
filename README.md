@@ -10,7 +10,7 @@
 
 <!-- GOODREADS-LIST:START -->
 - [Genius Makers: The Mavericks Who Brought AI to Google, Facebook, and the World](https://www.goodreads.com/review/show/4846933121?utm_medium=api&utm_source=rss) by Cade Metz (⭐️4.25)
-- [Being You: A New Science of Consciousness](https://www.goodreads.com/review/show/5173851408?utm_medium=api&utm_source=rss) by Anil Seth (⭐️4.07)
+- [Being You: A New Science of Consciousness](https://www.goodreads.com/review/show/5173851408?utm_medium=api&utm_source=rss) by Anil Seth (⭐️4.08)
 <!-- GOODREADS-LIST:END -->
 ### Last 5 Books I've Read
 
