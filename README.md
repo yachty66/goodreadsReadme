@@ -9,7 +9,6 @@
 ### Books I'm Currently Reading
 
 <!-- GOODREADS-LIST:START -->
-- [How the World Really Works: A Scientist’s Guide to Our Past, Present and Future](https://www.goodreads.com/review/show/5192853030?utm_medium=api&utm_source=rss) by Vaclav Smil (⭐️3.93)
 - [Being You: A New Science of Consciousness](https://www.goodreads.com/review/show/5173851408?utm_medium=api&utm_source=rss) by Anil Seth (⭐️4.08)
 <!-- GOODREADS-LIST:END -->
 ### Last 5 Books I've Read
