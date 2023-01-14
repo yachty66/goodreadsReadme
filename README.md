@@ -9,7 +9,7 @@
 ### Books I'm Currently Reading
 
 <!-- GOODREADS-LIST:START -->
-- [Being You: A New Science of Consciousness](https://www.goodreads.com/review/show/5173851408?utm_medium=api&utm_source=rss) by Anil Seth (⭐️4.09)
+- [Being You: A New Science of Consciousness](https://www.goodreads.com/review/show/5173851408?utm_medium=api&utm_source=rss) by Anil Seth (⭐️4.08)
 <!-- GOODREADS-LIST:END -->
 ### Last 5 Books I've Read
 
