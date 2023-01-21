@@ -14,9 +14,9 @@
 ### Last 5 Books I've Read
 
 <!-- GOODREADS-READ-LIST:START -->
+- [The Exponential Age: How Accelerating Technology is Transforming Business, Politics and Society](https://www.goodreads.com/review/show/5083518649?utm_medium=api&utm_source=rss) by Azeem Azhar (⭐⭐⭐⭐)
 - [How the World Really Works: A Scientist’s Guide to Our Past, Present and Future](https://www.goodreads.com/review/show/5192853030?utm_medium=api&utm_source=rss) by Vaclav Smil (⭐⭐⭐⭐)
 - [Genius Makers: The Mavericks Who Brought AI to Google, Facebook, and the World](https://www.goodreads.com/review/show/4846933121?utm_medium=api&utm_source=rss) by Cade Metz (⭐⭐⭐⭐⭐)
 - [Valley of the Gods: A Silicon Valley Story](https://www.goodreads.com/review/show/5133971920?utm_medium=api&utm_source=rss) by Alexandra Wolfe (⭐⭐⭐⭐)
 - [Neuronale Netze selbst programmieren: Ein verständlicher Einstieg mit Python (Animals)](https://www.goodreads.com/review/show/5141640168?utm_medium=api&utm_source=rss) by Tariq Rashid (⭐⭐⭐⭐)
-- [The Contrarian: Peter Thiel and Silicon Valley's Pursuit of Power](https://www.goodreads.com/review/show/4846935648?utm_medium=api&utm_source=rss) by Max Chafkin (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
