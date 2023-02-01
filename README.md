@@ -9,7 +9,7 @@
 ### Books I'm Currently Reading
 
 <!-- GOODREADS-LIST:START -->
-- [Being You: A New Science of Consciousness](https://www.goodreads.com/review/show/5173851408?utm_medium=api&utm_source=rss) by Anil Seth (⭐️4.08)
+- [The Information: A History, a Theory, a Flood](https://www.goodreads.com/review/show/4242810278?utm_medium=api&utm_source=rss) by James Gleick (⭐️4.01)
 <!-- GOODREADS-LIST:END -->
 ### Last 5 Books I've Read
 
