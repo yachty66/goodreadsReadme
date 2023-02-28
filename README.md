@@ -9,7 +9,7 @@
 ### Books I'm Currently Reading
 
 <!-- GOODREADS-LIST:START -->
-- [The Information: A History, a Theory, a Flood](https://www.goodreads.com/review/show/4242810278?utm_medium=api&utm_source=rss) by James Gleick (⭐️4.01)
+- [Hieroglyph: Stories and Visions for a Better Future](https://www.goodreads.com/review/show/5380594584?utm_medium=api&utm_source=rss) by Ed Finn (⭐️3.6)
 <!-- GOODREADS-LIST:END -->
 ### Last 5 Books I've Read
 
