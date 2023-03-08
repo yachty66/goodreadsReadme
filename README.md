@@ -9,6 +9,7 @@
 ### Books I'm Currently Reading
 
 <!-- GOODREADS-LIST:START -->
+- [Economix: How and Why Our Economy Works (and Doesn't Work), in Words and Pictures](https://www.goodreads.com/review/show/5352458462?utm_medium=api&utm_source=rss) by Michael    Goodwin (⭐️4.33)
 - [Hieroglyph: Stories and Visions for a Better Future](https://www.goodreads.com/review/show/5380594584?utm_medium=api&utm_source=rss) by Ed Finn (⭐️3.6)
 <!-- GOODREADS-LIST:END -->
 ### Last 5 Books I've Read
