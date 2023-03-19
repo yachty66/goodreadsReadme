@@ -15,9 +15,9 @@
 ### Last 5 Books I've Read
 
 <!-- GOODREADS-READ-LIST:START -->
+- [Economix: How and Why Our Economy Works (and Doesn't Work), in Words and Pictures](https://www.goodreads.com/review/show/5352458462?utm_medium=api&utm_source=rss) by Michael    Goodwin (⭐⭐⭐⭐)
 - [Hieroglyph: Stories and Visions for a Better Future](https://www.goodreads.com/review/show/5380594584?utm_medium=api&utm_source=rss) by Ed Finn (⭐⭐⭐)
 - [Neurocomic: A Comic About the Brain (Chinese Edition)](https://www.goodreads.com/review/show/5352457074?utm_medium=api&utm_source=rss) by Hana Ros (⭐⭐⭐⭐)
 - [The Information: A History, a Theory, a Flood](https://www.goodreads.com/review/show/4242810278?utm_medium=api&utm_source=rss) by James Gleick (⭐⭐⭐⭐)
 - [The Exponential Age: How Accelerating Technology is Transforming Business, Politics and Society](https://www.goodreads.com/review/show/5083518649?utm_medium=api&utm_source=rss) by Azeem Azhar (⭐⭐⭐⭐)
-- [How the World Really Works: A Scientist’s Guide to Our Past, Present and Future](https://www.goodreads.com/review/show/5192853030?utm_medium=api&utm_source=rss) by Vaclav Smil (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
