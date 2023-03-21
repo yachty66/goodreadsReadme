@@ -10,7 +10,7 @@
 
 <!-- GOODREADS-LIST:START -->
 - [Triumph of the City: How Our Greatest Invention Makes Us Richer, Smarter, Greener, Healthier and Happier](https://www.goodreads.com/review/show/4771736077?utm_medium=api&utm_source=rss) by Edward L. Glaeser (⭐️3.9)
-- [AI 2041: Ten Visions for Our Future](https://www.goodreads.com/review/show/4641889153?utm_medium=api&utm_source=rss) by Kai-Fu Lee (⭐️3.82)
+- [AI 2041: Ten Visions for Our Future](https://www.goodreads.com/review/show/4641889153?utm_medium=api&utm_source=rss) by Kai-Fu Lee (⭐️3.81)
 <!-- GOODREADS-LIST:END -->
 ### Last 5 Books I've Read
 
