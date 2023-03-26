@@ -9,6 +9,7 @@
 ### Books I'm Currently Reading
 
 <!-- GOODREADS-LIST:START -->
+- [The Nature of Technology: What It Is and How It Evolves](https://www.goodreads.com/review/show/5284526997?utm_medium=api&utm_source=rss) by W. Brian Arthur (⭐️3.99)
 - [AI 2041: Ten Visions for Our Future](https://www.goodreads.com/review/show/4641889153?utm_medium=api&utm_source=rss) by Kai-Fu Lee (⭐️3.82)
 <!-- GOODREADS-LIST:END -->
 ### Last 5 Books I've Read
