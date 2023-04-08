@@ -9,7 +9,7 @@
 ### Books I'm Currently Reading
 
 <!-- GOODREADS-LIST:START -->
-- [Impromptu: Amplifying Our Humanity Through AI](https://www.goodreads.com/review/show/5465782841?utm_medium=api&utm_source=rss) by Reid Hoffman (⭐️4.4)
+- [Impromptu: Amplifying Our Humanity Through AI](https://www.goodreads.com/review/show/5465782841?utm_medium=api&utm_source=rss) by Reid Hoffman (⭐️4.39)
 - [The Future of Modular Architecture](https://www.goodreads.com/review/show/5465715913?utm_medium=api&utm_source=rss) by David Wallance (⭐️3)
 - [AI 2041: Ten Visions for Our Future](https://www.goodreads.com/review/show/4641889153?utm_medium=api&utm_source=rss) by Kai-Fu Lee (⭐️3.82)
 <!-- GOODREADS-LIST:END -->
