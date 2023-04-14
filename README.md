@@ -15,9 +15,9 @@
 ### Last 5 Books I've Read
 
 <!-- GOODREADS-READ-LIST:START -->
+- [Impromptu: Amplifying Our Humanity Through AI](https://www.goodreads.com/review/show/5465782841?utm_medium=api&utm_source=rss) by Reid Hoffman (⭐⭐⭐⭐⭐)
 - [Ubersleep: Nap-Based Sleep Schedules and the Polyphasic Lifestyle](https://www.goodreads.com/review/show/4714841328?utm_medium=api&utm_source=rss) by PureDoxyk (⭐⭐⭐⭐⭐)
 - [The Nature of Technology: What It Is and How It Evolves](https://www.goodreads.com/review/show/5284526997?utm_medium=api&utm_source=rss) by W. Brian Arthur (⭐⭐⭐⭐)
 - [Triumph of the City: How Our Greatest Invention Makes Us Richer, Smarter, Greener, Healthier and Happier](https://www.goodreads.com/review/show/4771736077?utm_medium=api&utm_source=rss) by Edward L. Glaeser (⭐⭐⭐⭐⭐)
 - [Economix: How and Why Our Economy Works (and Doesn't Work), in Words and Pictures](https://www.goodreads.com/review/show/5352458462?utm_medium=api&utm_source=rss) by Michael    Goodwin (⭐⭐⭐⭐)
-- [Hieroglyph: Stories and Visions for a Better Future](https://www.goodreads.com/review/show/5380594584?utm_medium=api&utm_source=rss) by Ed Finn (⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
