@@ -9,8 +9,7 @@
 ### Books I'm Currently Reading
 
 <!-- GOODREADS-LIST:START -->
-- [The Future of Modular Architecture](https://www.goodreads.com/review/show/5465715913?utm_medium=api&utm_source=rss) by David Wallance (⭐️3)
-- [AI 2041: Ten Visions for Our Future](https://www.goodreads.com/review/show/4641889153?utm_medium=api&utm_source=rss) by Kai-Fu Lee (⭐️3.82)
+- [Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal](https://www.goodreads.com/review/show/5130671815?utm_medium=api&utm_source=rss) by Nick Bilton (⭐️4.01)
 <!-- GOODREADS-LIST:END -->
 ### Last 5 Books I've Read
 
