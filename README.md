@@ -9,7 +9,7 @@
 ### Books I'm Currently Reading
 
 <!-- GOODREADS-LIST:START -->
-- ["You Are Not Expected to Understand This": How 26 Lines of Code Changed the World](https://www.goodreads.com/review/show/5657631733?utm_medium=api&utm_source=rss) by Torie Bosch (⭐️3.54)
+- ["You Are Not Expected to Understand This": How 26 Lines of Code Changed the World](https://www.goodreads.com/review/show/5657631733?utm_medium=api&utm_source=rss) by Torie Bosch (⭐️3.53)
 - [Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal](https://www.goodreads.com/review/show/5130671815?utm_medium=api&utm_source=rss) by Nick Bilton (⭐️4.01)
 <!-- GOODREADS-LIST:END -->
 ### Last 5 Books I've Read
